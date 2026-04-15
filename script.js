@@ -1,6 +1,6 @@
 // Sayfa yüklendiğinde bir karşılama mesajı
 document.addEventListener('DOMContentLoaded', () => {
-    console.log("Portfolyo sayfası hazır!");
+    console.log("Sayfa hazır!");
 
     // Proje kartlarına tıklandığında efekt (Opsiyonel)
     const cards = document.querySelectorAll('.project-card');
