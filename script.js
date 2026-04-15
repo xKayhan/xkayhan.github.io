@@ -24,3 +24,4 @@ window.addEventListener('scroll', () => {
         nav.style.boxShadow = 'none';
     }
 });
+
